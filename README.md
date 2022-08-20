@@ -10,3 +10,4 @@ Des options de couleurs, de sons, des trucs en beta que j'ai jamais conpris et f
 Le reste j'ai oublier ça date
 
 ![image](https://user-images.githubusercontent.com/42698703/185764105-76a638f1-0711-4999-9d46-4f0c615439ff.png)
+(image de la derniere version pas a jour sur github)
